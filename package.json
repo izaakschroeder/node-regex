@@ -1,0 +1,12 @@
+{
+	"name": "regex",
+	"version": "0.0.1",
+	"description": "A simple regular expression framework for node.js.",
+	"author": "Izaak Schroeder",
+	"engine": "node >= 0.4.10",
+	"main": "regex.js",
+	"dependencies": {
+		"parsekit": "0.0.1",
+		"fsm": "0.0.1"
+	}
+}
